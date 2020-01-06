@@ -1,0 +1,7 @@
+#
+Data for calendar months during the years 2003 to 2018#
+#
+xc,"Data affected by accumulations" flag,Station Number,Station Name,Element description,Period,Period start date - Day Month Year in DD/MM/YYYY format,Period end date - Day Month Year in DD/MM/YYYY format,Element value,Number of valid days,Quality control field,#
+xc,Y, 44052,MOUNT MORRIS                            ,Total rainfall in mm                                                                                                    ,    95,01/11/2010,30/11/2010,    174.5,   8,  ,#
+xc,N, 44052,MOUNT MORRIS                            ,Total rainfall in mm                                                                                                    ,   108,01/12/2011,31/12/2011,    206.2,  11,  ,#
+xc,N, 44052,MOUNT MORRIS                            ,Total rainfall in mm                                                                                                    ,   109,01/01/2012,31/01/2012,    260.2,   9,  ,#

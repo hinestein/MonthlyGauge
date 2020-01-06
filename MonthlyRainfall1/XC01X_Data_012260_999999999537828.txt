@@ -1,0 +1,9 @@
+#
+Data for calendar months during the years 2003 to 2018#
+#
+xc,"Data affected by accumulations" flag,Station Number,Station Name,Element description,Period,Period start date - Day Month Year in DD/MM/YYYY format,Period end date - Day Month Year in DD/MM/YYYY format,Element value,Number of valid days,Quality control field,#
+xc,Y, 12260,CASCADES CREEK STATION                  ,Total rainfall in mm                                                                                                    ,     4,01/04/2003,30/04/2003,     27.6,   7,  ,#
+xc,Y, 12260,CASCADES CREEK STATION                  ,Total rainfall in mm                                                                                                    ,     5,01/05/2003,31/05/2003,     61.0,   7,  ,#
+xc,Y, 12260,CASCADES CREEK STATION                  ,Total rainfall in mm                                                                                                    ,     7,01/07/2003,31/07/2003,     62.0,  12,  ,#
+xc,Y, 12260,CASCADES CREEK STATION                  ,Total rainfall in mm                                                                                                    ,     9,01/09/2003,30/09/2003,     60.0,   8,  ,#
+xc,Y, 12260,CASCADES CREEK STATION                  ,Total rainfall in mm                                                                                                    ,    10,01/10/2003,31/10/2003,     42.2,   7,  ,#

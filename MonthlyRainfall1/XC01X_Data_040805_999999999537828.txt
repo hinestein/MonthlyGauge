@@ -1,0 +1,7 @@
+#
+Data for calendar months during the years 2003 to 2018#
+#
+xc,"Data affected by accumulations" flag,Station Number,Station Name,Element description,Period,Period start date - Day Month Year in DD/MM/YYYY format,Period end date - Day Month Year in DD/MM/YYYY format,Element value,Number of valid days,Quality control field,#
+xc,N, 40805,PEACHESTER TM                           ,Total rainfall in mm                                                                                                    ,    11,01/11/2003,30/11/2003,      0.0,   7,  ,#
+xc,N, 40805,PEACHESTER TM                           ,Total rainfall in mm                                                                                                    ,    12,01/12/2003,31/12/2003,     20.0,  13,  ,#
+xc,N, 40805,PEACHESTER TM                           ,Total rainfall in mm                                                                                                    ,    14,01/02/2004,29/02/2004,     51.0,  17,  ,#

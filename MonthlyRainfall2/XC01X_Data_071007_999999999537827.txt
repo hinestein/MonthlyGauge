@@ -1,0 +1,24 @@
+#
+Data for calendar months during the years 2003 to 2018#
+#
+xc,"Data affected by accumulations" flag,Station Number,Station Name,Element description,Period,Period start date - Day Month Year in DD/MM/YYYY format,Period end date - Day Month Year in DD/MM/YYYY format,Element value,Number of valid days,Quality control field,#
+xc,N, 71007,JINDABYNE                               ,Total rainfall in mm                                                                                                    ,     1,01/01/2003,31/01/2003,      4.8,  31,  ,#
+xc,Y, 71007,JINDABYNE                               ,Total rainfall in mm                                                                                                    ,     2,01/02/2003,28/02/2003,     35.0,  28,  ,#
+xc,Y, 71007,JINDABYNE                               ,Total rainfall in mm                                                                                                    ,     3,01/03/2003,31/03/2003,     83.6,  31,  ,#
+xc,N, 71007,JINDABYNE                               ,Total rainfall in mm                                                                                                    ,     4,01/04/2003,30/04/2003,     15.6,  30,  ,#
+xc,N, 71007,JINDABYNE                               ,Total rainfall in mm                                                                                                    ,     5,01/05/2003,31/05/2003,     22.4,  31,  ,#
+xc,N, 71007,JINDABYNE                               ,Total rainfall in mm                                                                                                    ,     6,01/06/2003,30/06/2003,     21.8,  30,  ,#
+xc,N, 71007,JINDABYNE                               ,Total rainfall in mm                                                                                                    ,     7,01/07/2003,31/07/2003,     22.8,  31,  ,#
+xc,Y, 71007,JINDABYNE                               ,Total rainfall in mm                                                                                                    ,     8,01/08/2003,31/08/2003,     82.2,  31,  ,#
+xc,Y, 71007,JINDABYNE                               ,Total rainfall in mm                                                                                                    ,     9,01/09/2003,30/09/2003,     48.6,  30,  ,#
+xc,N, 71007,JINDABYNE                               ,Total rainfall in mm                                                                                                    ,    10,01/10/2003,31/10/2003,     45.0,  31,  ,#
+xc,Y, 71007,JINDABYNE                               ,Total rainfall in mm                                                                                                    ,    11,01/11/2003,30/11/2003,     70.4,  30,  ,#
+xc,Y, 71007,JINDABYNE                               ,Total rainfall in mm                                                                                                    ,    12,01/12/2003,31/12/2003,     83.6,  31,  ,#
+xc,Y, 71007,JINDABYNE                               ,Total rainfall in mm                                                                                                    ,    13,01/01/2004,31/01/2004,     27.6,  20,  ,#
+xc,Y, 71007,JINDABYNE                               ,Total rainfall in mm                                                                                                    ,    19,01/07/2004,31/07/2004,     19.0,   8,  ,#
+xc,N, 71007,JINDABYNE                               ,Total rainfall in mm                                                                                                    ,    20,01/08/2004,31/08/2004,     47.4,   7,  ,#
+xc,Y, 71007,JINDABYNE                               ,Total rainfall in mm                                                                                                    ,    21,01/09/2004,30/09/2004,     50.8,  11,  ,#
+xc,Y, 71007,JINDABYNE                               ,Total rainfall in mm                                                                                                    ,    22,01/10/2004,31/10/2004,     42.6,   8,  ,#
+xc,Y, 71007,JINDABYNE                               ,Total rainfall in mm                                                                                                    ,    23,01/11/2004,30/11/2004,      5.0,   8,  ,#
+xc,Y, 71007,JINDABYNE                               ,Total rainfall in mm                                                                                                    ,    26,01/02/2005,28/02/2005,     59.6,   7,  ,#
+xc,Y, 71007,JINDABYNE                               ,Total rainfall in mm                                                                                                    ,    27,01/03/2005,31/03/2005,     15.2,  10,  ,#

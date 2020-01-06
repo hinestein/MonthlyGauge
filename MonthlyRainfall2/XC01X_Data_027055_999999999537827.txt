@@ -1,0 +1,14 @@
+#
+Data for calendar months during the years 2003 to 2018#
+#
+xc,"Data affected by accumulations" flag,Station Number,Station Name,Element description,Period,Period start date - Day Month Year in DD/MM/YYYY format,Period end date - Day Month Year in DD/MM/YYYY format,Element value,Number of valid days,Quality control field,#
+xc,Y, 27055,STRATH HAVEN STATION                    ,Total rainfall in mm                                                                                                    ,     1,01/01/2003,31/01/2003,     66.2,  31,  ,#
+xc,Y, 27055,STRATH HAVEN STATION                    ,Total rainfall in mm                                                                                                    ,     2,01/02/2003,28/02/2003,    521.2,  28,  ,#
+xc,Y, 27055,STRATH HAVEN STATION                    ,Total rainfall in mm                                                                                                    ,     3,01/03/2003,31/03/2003,    374.8,  31,  ,#
+xc,N, 27055,STRATH HAVEN STATION                    ,Total rainfall in mm                                                                                                    ,     4,01/04/2003,30/04/2003,      0.0,  30,  ,#
+xc,N, 27055,STRATH HAVEN STATION                    ,Total rainfall in mm                                                                                                    ,     5,01/05/2003,31/05/2003,      0.4,  31,  ,#
+xc,Y, 27055,STRATH HAVEN STATION                    ,Total rainfall in mm                                                                                                    ,    15,01/03/2004,31/03/2004,     68.6,  31,  ,#
+xc,N, 27055,STRATH HAVEN STATION                    ,Total rainfall in mm                                                                                                    ,    16,01/04/2004,30/04/2004,     61.6,  30,  ,#
+xc,Y, 27055,STRATH HAVEN STATION                    ,Total rainfall in mm                                                                                                    ,    37,01/01/2006,31/01/2006,    376.2,  31,  ,#
+xc,N, 27055,STRATH HAVEN STATION                    ,Total rainfall in mm                                                                                                    ,    38,01/02/2006,28/02/2006,    165.4,  28,  ,#
+xc,Y, 27055,STRATH HAVEN STATION                    ,Total rainfall in mm                                                                                                    ,    39,01/03/2006,31/03/2006,    335.7,  31,  ,#

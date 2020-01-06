@@ -1,0 +1,10 @@
+#
+Data for calendar months during the years 2003 to 2018#
+#
+xc,"Data affected by accumulations" flag,Station Number,Station Name,Element description,Period,Period start date - Day Month Year in DD/MM/YYYY format,Period end date - Day Month Year in DD/MM/YYYY format,Element value,Number of valid days,Quality control field,#
+xc,N, 40756,BOREEN POINT                            ,Total rainfall in mm                                                                                                    ,     2,01/02/2003,28/02/2003,    266.4,   8,  ,#
+xc,N, 40756,BOREEN POINT                            ,Total rainfall in mm                                                                                                    ,    31,01/07/2005,31/07/2005,     49.0,  31,  ,#
+xc,N, 40756,BOREEN POINT                            ,Total rainfall in mm                                                                                                    ,    32,01/08/2005,31/08/2005,     39.7,  31,  ,#
+xc,N, 40756,BOREEN POINT                            ,Total rainfall in mm                                                                                                    ,    33,01/09/2005,30/09/2005,     28.0,  30,  ,#
+xc,N, 40756,BOREEN POINT                            ,Total rainfall in mm                                                                                                    ,    34,01/10/2005,31/10/2005,    122.2,  31,  ,#
+xc,N, 40756,BOREEN POINT                            ,Total rainfall in mm                                                                                                    ,    35,01/11/2005,30/11/2005,    219.4,  30,  ,#

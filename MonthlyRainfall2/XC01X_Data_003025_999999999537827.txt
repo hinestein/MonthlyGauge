@@ -1,0 +1,6 @@
+#
+Data for calendar months during the years 2003 to 2018#
+#
+xc,"Data affected by accumulations" flag,Station Number,Station Name,Element description,Period,Period start date - Day Month Year in DD/MM/YYYY format,Period end date - Day Month Year in DD/MM/YYYY format,Element value,Number of valid days,Quality control field,#
+xc,N,  3025,COCKATOO ISLAND                         ,Total rainfall in mm                                                                                                    ,   137,01/05/2014,31/05/2014,      7.6,  31,  ,#
+xc,N,  3025,COCKATOO ISLAND                         ,Total rainfall in mm                                                                                                    ,   139,01/07/2014,31/07/2014,     50.4,  13,  ,#

@@ -1,0 +1,16 @@
+#
+Data for calendar months during the years 2003 to 2018#
+#
+xc,"Data affected by accumulations" flag,Station Number,Station Name,Element description,Period,Period start date - Day Month Year in DD/MM/YYYY format,Period end date - Day Month Year in DD/MM/YYYY format,Element value,Number of valid days,Quality control field,#
+xc,N, 14240,LAKE BENNETT                            ,Total rainfall in mm                                                                                                    ,    34,01/10/2005,31/10/2005,    126.0,  31,  ,#
+xc,N, 14240,LAKE BENNETT                            ,Total rainfall in mm                                                                                                    ,    35,01/11/2005,30/11/2005,    172.1,  30,  ,#
+xc,Y, 14240,LAKE BENNETT                            ,Total rainfall in mm                                                                                                    ,    36,01/12/2005,31/12/2005,    257.7,  31,  ,#
+xc,Y, 14240,LAKE BENNETT                            ,Total rainfall in mm                                                                                                    ,    37,01/01/2006,31/01/2006,    462.8,  31,  ,#
+xc,Y, 14240,LAKE BENNETT                            ,Total rainfall in mm                                                                                                    ,    38,01/02/2006,28/02/2006,    215.0,  28,  ,#
+xc,Y, 14240,LAKE BENNETT                            ,Total rainfall in mm                                                                                                    ,    40,01/04/2006,30/04/2006,    454.0,  30,  ,#
+xc,Y, 14240,LAKE BENNETT                            ,Total rainfall in mm                                                                                                    ,    47,01/11/2006,30/11/2006,     67.5,  30,  ,#
+xc,Y, 14240,LAKE BENNETT                            ,Total rainfall in mm                                                                                                    ,    48,01/12/2006,31/12/2006,    304.2,  31,  ,#
+xc,Y, 14240,LAKE BENNETT                            ,Total rainfall in mm                                                                                                    ,    59,01/11/2007,30/11/2007,     56.1,  30,  ,#
+xc,N, 14240,LAKE BENNETT                            ,Total rainfall in mm                                                                                                    ,    60,01/12/2007,31/12/2007,    407.1,  31,  ,#
+xc,Y, 14240,LAKE BENNETT                            ,Total rainfall in mm                                                                                                    ,    61,01/01/2008,31/01/2008,    239.1,  31,  ,#
+xc,Y, 14240,LAKE BENNETT                            ,Total rainfall in mm                                                                                                    ,    62,01/02/2008,29/02/2008,    358.3,  27,  ,#

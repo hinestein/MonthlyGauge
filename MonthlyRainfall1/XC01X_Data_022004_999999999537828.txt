@@ -1,0 +1,21 @@
+#
+Data for calendar months during the years 2003 to 2018#
+#
+xc,"Data affected by accumulations" flag,Station Number,Station Name,Element description,Period,Period start date - Day Month Year in DD/MM/YYYY format,Period end date - Day Month Year in DD/MM/YYYY format,Element value,Number of valid days,Quality control field,#
+xc,Y, 22004,EDITHBURGH POST OFFICE                  ,Total rainfall in mm                                                                                                    ,     1,01/01/2003,31/01/2003,     22.8,  31,  ,#
+xc,N, 22004,EDITHBURGH POST OFFICE                  ,Total rainfall in mm                                                                                                    ,     3,01/03/2003,31/03/2003,      5.0,  31,  ,#
+xc,Y, 22004,EDITHBURGH POST OFFICE                  ,Total rainfall in mm                                                                                                    ,     5,01/05/2003,31/05/2003,     77.3,  10,  ,#
+xc,Y, 22004,EDITHBURGH POST OFFICE                  ,Total rainfall in mm                                                                                                    ,     6,01/06/2003,30/06/2003,     70.1,   9,  ,#
+xc,Y, 22004,EDITHBURGH POST OFFICE                  ,Total rainfall in mm                                                                                                    ,     7,01/07/2003,31/07/2003,     53.9,  10,  ,#
+xc,Y, 22004,EDITHBURGH POST OFFICE                  ,Total rainfall in mm                                                                                                    ,     8,01/08/2003,31/08/2003,     56.0,  14,  ,#
+xc,Y, 22004,EDITHBURGH POST OFFICE                  ,Total rainfall in mm                                                                                                    ,     9,01/09/2003,30/09/2003,     36.0,  10,  ,#
+xc,N, 22004,EDITHBURGH POST OFFICE                  ,Total rainfall in mm                                                                                                    ,    10,01/10/2003,31/10/2003,     14.3,   7,  ,#
+xc,Y, 22004,EDITHBURGH POST OFFICE                  ,Total rainfall in mm                                                                                                    ,    13,01/01/2004,31/01/2004,      7.6,  31,  ,#
+xc,N, 22004,EDITHBURGH POST OFFICE                  ,Total rainfall in mm                                                                                                    ,    14,01/02/2004,29/02/2004,      6.0,  29,  ,#
+xc,N, 22004,EDITHBURGH POST OFFICE                  ,Total rainfall in mm                                                                                                    ,    15,01/03/2004,31/03/2004,      9.4,  31,  ,#
+xc,N, 22004,EDITHBURGH POST OFFICE                  ,Total rainfall in mm                                                                                                    ,    16,01/04/2004,30/04/2004,     11.6,  30,  ,#
+xc,Y, 22004,EDITHBURGH POST OFFICE                  ,Total rainfall in mm                                                                                                    ,    17,01/05/2004,31/05/2004,     31.1,  31,  ,#
+xc,Y, 22004,EDITHBURGH POST OFFICE                  ,Total rainfall in mm                                                                                                    ,    18,01/06/2004,30/06/2004,     71.0,  30,  ,#
+xc,Y, 22004,EDITHBURGH POST OFFICE                  ,Total rainfall in mm                                                                                                    ,    19,01/07/2004,31/07/2004,     54.3,  31,  ,#
+xc,Y, 22004,EDITHBURGH POST OFFICE                  ,Total rainfall in mm                                                                                                    ,    20,01/08/2004,31/08/2004,     74.0,  31,  ,#
+xc,Y, 22004,EDITHBURGH POST OFFICE                  ,Total rainfall in mm                                                                                                    ,    21,01/09/2004,30/09/2004,     40.5,  30,  ,#

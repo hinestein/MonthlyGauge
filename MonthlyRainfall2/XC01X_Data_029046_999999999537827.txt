@@ -1,0 +1,18 @@
+#
+Data for calendar months during the years 2003 to 2018#
+#
+xc,"Data affected by accumulations" flag,Station Number,Station Name,Element description,Period,Period start date - Day Month Year in DD/MM/YYYY format,Period end date - Day Month Year in DD/MM/YYYY format,Element value,Number of valid days,Quality control field,#
+xc,N, 29046,BLACKBULL SIDING                        ,Total rainfall in mm                                                                                                    ,     1,01/01/2003,31/01/2003,     91.3,  31,  ,#
+xc,N, 29046,BLACKBULL SIDING                        ,Total rainfall in mm                                                                                                    ,    16,01/04/2004,30/04/2004,      0.0,  30,  ,#
+xc,N, 29046,BLACKBULL SIDING                        ,Total rainfall in mm                                                                                                    ,    17,01/05/2004,31/05/2004,      7.0,  31,  ,#
+xc,Y, 29046,BLACKBULL SIDING                        ,Total rainfall in mm                                                                                                    ,    22,01/10/2004,31/10/2004,     12.0,  31,  ,#
+xc,N, 29046,BLACKBULL SIDING                        ,Total rainfall in mm                                                                                                    ,    23,01/11/2004,30/11/2004,    107.0,  30,  ,#
+xc,N, 29046,BLACKBULL SIDING                        ,Total rainfall in mm                                                                                                    ,    36,01/12/2005,31/12/2005,     97.0,  31,  ,#
+xc,N, 29046,BLACKBULL SIDING                        ,Total rainfall in mm                                                                                                    ,    37,01/01/2006,31/01/2006,    250.0,  31,  ,#
+xc,N, 29046,BLACKBULL SIDING                        ,Total rainfall in mm                                                                                                    ,    38,01/02/2006,28/02/2006,     31.0,  28,  ,#
+xc,N, 29046,BLACKBULL SIDING                        ,Total rainfall in mm                                                                                                    ,    39,01/03/2006,31/03/2006,    239.0,  31,  ,#
+xc,N, 29046,BLACKBULL SIDING                        ,Total rainfall in mm                                                                                                    ,    49,01/01/2007,31/01/2007,    139.2,  31,  ,#
+xc,N, 29046,BLACKBULL SIDING                        ,Total rainfall in mm                                                                                                    ,    50,01/02/2007,28/02/2007,    387.5,  28,  ,#
+xc,N, 29046,BLACKBULL SIDING                        ,Total rainfall in mm                                                                                                    ,    51,01/03/2007,31/03/2007,    176.0,  31,  ,#
+xc,N, 29046,BLACKBULL SIDING                        ,Total rainfall in mm                                                                                                    ,    52,01/04/2007,30/04/2007,      0.0,  30,  ,#
+xc,N, 29046,BLACKBULL SIDING                        ,Total rainfall in mm                                                                                                    ,    53,01/05/2007,31/05/2007,      0.0,  31,  ,#

@@ -1,0 +1,9 @@
+#
+Data for calendar months during the years 2003 to 2018#
+#
+xc,"Data affected by accumulations" flag,Station Number,Station Name,Element description,Period,Period start date - Day Month Year in DD/MM/YYYY format,Period end date - Day Month Year in DD/MM/YYYY format,Element value,Number of valid days,Quality control field,#
+xc,N, 21134,SHIROKEE                                ,Total rainfall in mm                                                                                                    ,     1,01/01/2003,31/01/2003,     11.4,  31,  ,#
+xc,N, 21134,SHIROKEE                                ,Total rainfall in mm                                                                                                    ,     2,01/02/2003,28/02/2003,     74.2,  28,  ,#
+xc,Y, 21134,SHIROKEE                                ,Total rainfall in mm                                                                                                    ,     3,01/03/2003,31/03/2003,      2.6,  31,  ,#
+xc,N, 21134,SHIROKEE                                ,Total rainfall in mm                                                                                                    ,     4,01/04/2003,30/04/2003,     17.2,  30,  ,#
+xc,N, 21134,SHIROKEE                                ,Total rainfall in mm                                                                                                    ,     5,01/05/2003,31/05/2003,      3.4,   8,  ,#

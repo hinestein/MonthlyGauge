@@ -1,0 +1,9 @@
+#
+Data for calendar months during the years 2003 to 2018#
+#
+xc,"Data affected by accumulations" flag,Station Number,Station Name,Element description,Period,Period start date - Day Month Year in DD/MM/YYYY format,Period end date - Day Month Year in DD/MM/YYYY format,Element value,Number of valid days,Quality control field,#
+xc,Y, 33311,FRENCHVILLE LIGHTH'SE CHISTIAN SCHOOL   ,Total rainfall in mm                                                                                                    ,     2,01/02/2003,28/02/2003,    335.4,  28,  ,#
+xc,N, 33311,FRENCHVILLE LIGHTH'SE CHISTIAN SCHOOL   ,Total rainfall in mm                                                                                                    ,    14,01/02/2004,29/02/2004,      2.4,  29,  ,#
+xc,Y, 33311,FRENCHVILLE LIGHTH'SE CHISTIAN SCHOOL   ,Total rainfall in mm                                                                                                    ,    15,01/03/2004,31/03/2004,     80.0,  31,  ,#
+xc,N, 33311,FRENCHVILLE LIGHTH'SE CHISTIAN SCHOOL   ,Total rainfall in mm                                                                                                    ,    16,01/04/2004,30/04/2004,      2.6,  30,  ,#
+xc,N, 33311,FRENCHVILLE LIGHTH'SE CHISTIAN SCHOOL   ,Total rainfall in mm                                                                                                    ,    17,01/05/2004,31/05/2004,     10.2,  31,  ,#

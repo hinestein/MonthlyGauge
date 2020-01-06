@@ -1,0 +1,14 @@
+#
+Data for calendar months during the years 2003 to 2018#
+#
+xc,"Data affected by accumulations" flag,Station Number,Station Name,Element description,Period,Period start date - Day Month Year in DD/MM/YYYY format,Period end date - Day Month Year in DD/MM/YYYY format,Element value,Number of valid days,Quality control field,#
+xc,N, 14290,HONEYMOON HILL                          ,Total rainfall in mm                                                                                                    ,    91,01/07/2010,31/07/2010,      0.0,  31,  ,#
+xc,N, 14290,HONEYMOON HILL                          ,Total rainfall in mm                                                                                                    ,    92,01/08/2010,31/08/2010,     39.4,  31,  ,#
+xc,N, 14290,HONEYMOON HILL                          ,Total rainfall in mm                                                                                                    ,    93,01/09/2010,30/09/2010,     36.0,  30,  ,#
+xc,Y, 14290,HONEYMOON HILL                          ,Total rainfall in mm                                                                                                    ,    94,01/10/2010,31/10/2010,    169.9,  31,  ,#
+xc,N, 14290,HONEYMOON HILL                          ,Total rainfall in mm                                                                                                    ,    95,01/11/2010,30/11/2010,     90.2,  30,  ,#
+xc,N, 14290,HONEYMOON HILL                          ,Total rainfall in mm                                                                                                    ,    96,01/12/2010,31/12/2010,    372.3,  31,  ,#
+xc,N, 14290,HONEYMOON HILL                          ,Total rainfall in mm                                                                                                    ,    97,01/01/2011,31/01/2011,    567.5,  31,  ,#
+xc,Y, 14290,HONEYMOON HILL                          ,Total rainfall in mm                                                                                                    ,    98,01/02/2011,28/02/2011,    777.1,  28,  ,#
+xc,N, 14290,HONEYMOON HILL                          ,Total rainfall in mm                                                                                                    ,    99,01/03/2011,31/03/2011,    197.9,  31,  ,#
+xc,N, 14290,HONEYMOON HILL                          ,Total rainfall in mm                                                                                                    ,   100,01/04/2011,30/04/2011,      0.0,  30,  ,#

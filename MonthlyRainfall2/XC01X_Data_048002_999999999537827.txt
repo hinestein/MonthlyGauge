@@ -1,0 +1,25 @@
+#
+Data for calendar months during the years 2003 to 2018#
+#
+xc,"Data affected by accumulations" flag,Station Number,Station Name,Element description,Period,Period start date - Day Month Year in DD/MM/YYYY format,Period end date - Day Month Year in DD/MM/YYYY format,Element value,Number of valid days,Quality control field,#
+xc,N, 48002,TILPA (INNESOWEN)                       ,Total rainfall in mm                                                                                                    ,     1,01/01/2003,31/01/2003,      9.2,  31,  ,#
+xc,Y, 48002,TILPA (INNESOWEN)                       ,Total rainfall in mm                                                                                                    ,     2,01/02/2003,28/02/2003,     46.4,  28,  ,#
+xc,N, 48002,TILPA (INNESOWEN)                       ,Total rainfall in mm                                                                                                    ,     3,01/03/2003,31/03/2003,      0.0,  31,  ,#
+xc,N, 48002,TILPA (INNESOWEN)                       ,Total rainfall in mm                                                                                                    ,     4,01/04/2003,30/04/2003,     51.6,  30,  ,#
+xc,N, 48002,TILPA (INNESOWEN)                       ,Total rainfall in mm                                                                                                    ,     5,01/05/2003,31/05/2003,     17.2,  31,  ,#
+xc,N, 48002,TILPA (INNESOWEN)                       ,Total rainfall in mm                                                                                                    ,     6,01/06/2003,30/06/2003,      5.6,  30,  ,#
+xc,N, 48002,TILPA (INNESOWEN)                       ,Total rainfall in mm                                                                                                    ,     7,01/07/2003,31/07/2003,     24.0,  31,  ,#
+xc,Y, 48002,TILPA (INNESOWEN)                       ,Total rainfall in mm                                                                                                    ,     8,01/08/2003,31/08/2003,     65.6,  31,  ,#
+xc,N, 48002,TILPA (INNESOWEN)                       ,Total rainfall in mm                                                                                                    ,     9,01/09/2003,30/09/2003,      2.0,  30,  ,#
+xc,N, 48002,TILPA (INNESOWEN)                       ,Total rainfall in mm                                                                                                    ,    10,01/10/2003,31/10/2003,     34.8,  31,  ,#
+xc,N, 48002,TILPA (INNESOWEN)                       ,Total rainfall in mm                                                                                                    ,    11,01/11/2003,30/11/2003,     22.4,  30,  ,#
+xc,N, 48002,TILPA (INNESOWEN)                       ,Total rainfall in mm                                                                                                    ,    30,01/06/2005,30/06/2005,    121.8,  11,  ,#
+xc,N, 48002,TILPA (INNESOWEN)                       ,Total rainfall in mm                                                                                                    ,    33,01/09/2005,30/09/2005,     36.8,   8,  ,#
+xc,N, 48002,TILPA (INNESOWEN)                       ,Total rainfall in mm                                                                                                    ,    42,01/06/2006,30/06/2006,     36.4,   8,  ,#
+xc,Y, 48002,TILPA (INNESOWEN)                       ,Total rainfall in mm                                                                                                    ,    59,01/11/2007,30/11/2007,     62.0,   8,  ,#
+xc,N, 48002,TILPA (INNESOWEN)                       ,Total rainfall in mm                                                                                                    ,    94,01/10/2010,31/10/2010,    142.4,   9,  ,#
+xc,N, 48002,TILPA (INNESOWEN)                       ,Total rainfall in mm                                                                                                    ,    95,01/11/2010,30/11/2010,    117.6,   8,  ,#
+xc,N, 48002,TILPA (INNESOWEN)                       ,Total rainfall in mm                                                                                                    ,    97,01/01/2011,31/01/2011,    102.6,   7,  ,#
+xc,N, 48002,TILPA (INNESOWEN)                       ,Total rainfall in mm                                                                                                    ,   126,01/06/2013,30/06/2013,     97.4,   8,  ,#
+xc,N, 48002,TILPA (INNESOWEN)                       ,Total rainfall in mm                                                                                                    ,   149,01/05/2015,31/05/2015,     55.2,   7,  ,#
+xc,N, 48002,TILPA (INNESOWEN)                       ,Total rainfall in mm                                                                                                    ,   150,01/06/2015,30/06/2015,     56.0,   7,  ,#

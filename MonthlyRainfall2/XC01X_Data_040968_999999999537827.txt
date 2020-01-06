@@ -1,0 +1,31 @@
+#
+Data for calendar months during the years 2003 to 2018#
+#
+xc,"Data affected by accumulations" flag,Station Number,Station Name,Element description,Period,Period start date - Day Month Year in DD/MM/YYYY format,Period end date - Day Month Year in DD/MM/YYYY format,Element value,Number of valid days,Quality control field,#
+xc,N, 40968,GOODNA                                  ,Total rainfall in mm                                                                                                    ,    35,01/11/2005,30/11/2005,    109.9,  30,  ,#
+xc,N, 40968,GOODNA                                  ,Total rainfall in mm                                                                                                    ,    36,01/12/2005,31/12/2005,     75.4,  31,  ,#
+xc,N, 40968,GOODNA                                  ,Total rainfall in mm                                                                                                    ,    37,01/01/2006,31/01/2006,    113.0,  31,  ,#
+xc,N, 40968,GOODNA                                  ,Total rainfall in mm                                                                                                    ,    38,01/02/2006,28/02/2006,     57.2,  28,  ,#
+xc,N, 40968,GOODNA                                  ,Total rainfall in mm                                                                                                    ,    39,01/03/2006,31/03/2006,     90.1,  31,  ,#
+xc,N, 40968,GOODNA                                  ,Total rainfall in mm                                                                                                    ,    40,01/04/2006,30/04/2006,     27.6,  30,  ,#
+xc,N, 40968,GOODNA                                  ,Total rainfall in mm                                                                                                    ,    41,01/05/2006,31/05/2006,     13.0,  31,  ,#
+xc,N, 40968,GOODNA                                  ,Total rainfall in mm                                                                                                    ,    42,01/06/2006,30/06/2006,     30.9,  30,  ,#
+xc,N, 40968,GOODNA                                  ,Total rainfall in mm                                                                                                    ,    43,01/07/2006,31/07/2006,     39.1,  31,  ,#
+xc,N, 40968,GOODNA                                  ,Total rainfall in mm                                                                                                    ,    44,01/08/2006,31/08/2006,     42.2,  31,  ,#
+xc,N, 40968,GOODNA                                  ,Total rainfall in mm                                                                                                    ,    45,01/09/2006,30/09/2006,     63.0,  30,  ,#
+xc,N, 40968,GOODNA                                  ,Total rainfall in mm                                                                                                    ,    46,01/10/2006,31/10/2006,      9.0,  31,  ,#
+xc,N, 40968,GOODNA                                  ,Total rainfall in mm                                                                                                    ,    47,01/11/2006,30/11/2006,     57.4,  30,  ,#
+xc,N, 40968,GOODNA                                  ,Total rainfall in mm                                                                                                    ,    48,01/12/2006,31/12/2006,     47.6,  31,  ,#
+xc,N, 40968,GOODNA                                  ,Total rainfall in mm                                                                                                    ,    49,01/01/2007,31/01/2007,     76.8,  31,  ,#
+xc,N, 40968,GOODNA                                  ,Total rainfall in mm                                                                                                    ,    50,01/02/2007,28/02/2007,     19.9,  28,  ,#
+xc,N, 40968,GOODNA                                  ,Total rainfall in mm                                                                                                    ,    51,01/03/2007,31/03/2007,     13.4,  31,  ,#
+xc,N, 40968,GOODNA                                  ,Total rainfall in mm                                                                                                    ,    52,01/04/2007,30/04/2007,      3.8,  30,  ,#
+xc,Y, 40968,GOODNA                                  ,Total rainfall in mm                                                                                                    ,    53,01/05/2007,31/05/2007,     16.1,  31,  ,#
+xc,N, 40968,GOODNA                                  ,Total rainfall in mm                                                                                                    ,    54,01/06/2007,30/06/2007,     96.6,  30,  ,#
+xc,N, 40968,GOODNA                                  ,Total rainfall in mm                                                                                                    ,    55,01/07/2007,31/07/2007,      1.8,  31,  ,#
+xc,N, 40968,GOODNA                                  ,Total rainfall in mm                                                                                                    ,    56,01/08/2007,31/08/2007,     89.2,  31,  ,#
+xc,N, 40968,GOODNA                                  ,Total rainfall in mm                                                                                                    ,    57,01/09/2007,30/09/2007,     19.4,  30,  ,#
+xc,N, 40968,GOODNA                                  ,Total rainfall in mm                                                                                                    ,    58,01/10/2007,31/10/2007,     74.8,  31,  ,#
+xc,N, 40968,GOODNA                                  ,Total rainfall in mm                                                                                                    ,    59,01/11/2007,30/11/2007,     53.5,  30,  ,#
+xc,N, 40968,GOODNA                                  ,Total rainfall in mm                                                                                                    ,    60,01/12/2007,31/12/2007,    102.3,  31,  ,#
+xc,N, 40968,GOODNA                                  ,Total rainfall in mm                                                                                                    ,    61,01/01/2008,31/01/2008,    100.5,  16,  ,#

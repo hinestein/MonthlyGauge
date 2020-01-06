@@ -1,0 +1,12 @@
+#
+Data for calendar months during the years 2003 to 2018#
+#
+xc,"Data affected by accumulations" flag,Station Number,Station Name,Element description,Period,Period start date - Day Month Year in DD/MM/YYYY format,Period end date - Day Month Year in DD/MM/YYYY format,Element value,Number of valid days,Quality control field,#
+xc,N, 35227,KARAMEA                                 ,Total rainfall in mm                                                                                                    ,    93,01/09/2010,30/09/2010,    221.3,  30,  ,#
+xc,N, 35227,KARAMEA                                 ,Total rainfall in mm                                                                                                    ,    94,01/10/2010,31/10/2010,     71.0,  31,  ,#
+xc,N, 35227,KARAMEA                                 ,Total rainfall in mm                                                                                                    ,    95,01/11/2010,30/11/2010,     92.6,  30,  ,#
+xc,N, 35227,KARAMEA                                 ,Total rainfall in mm                                                                                                    ,    96,01/12/2010,31/12/2010,    510.8,  31,  ,#
+xc,N, 35227,KARAMEA                                 ,Total rainfall in mm                                                                                                    ,   104,01/08/2011,31/08/2011,     51.9,  31,  ,#
+xc,N, 35227,KARAMEA                                 ,Total rainfall in mm                                                                                                    ,   105,01/09/2011,30/09/2011,      5.2,  30,  ,#
+xc,N, 35227,KARAMEA                                 ,Total rainfall in mm                                                                                                    ,   106,01/10/2011,31/10/2011,     34.5,  31,  ,#
+xc,Y, 35227,KARAMEA                                 ,Total rainfall in mm                                                                                                    ,   108,01/12/2011,31/12/2011,     89.3,  31,  ,#

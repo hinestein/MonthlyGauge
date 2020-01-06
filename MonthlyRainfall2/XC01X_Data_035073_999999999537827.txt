@@ -1,0 +1,11 @@
+#
+Data for calendar months during the years 2003 to 2018#
+#
+xc,"Data affected by accumulations" flag,Station Number,Station Name,Element description,Period,Period start date - Day Month Year in DD/MM/YYYY format,Period end date - Day Month Year in DD/MM/YYYY format,Element value,Number of valid days,Quality control field,#
+xc,N, 35073,TOLINESS STATION                        ,Total rainfall in mm                                                                                                    ,     2,01/02/2003,28/02/2003,    179.0,   8,  ,#
+xc,N, 35073,TOLINESS STATION                        ,Total rainfall in mm                                                                                                    ,    13,01/01/2004,31/01/2004,    194.0,   9,  ,#
+xc,Y, 35073,TOLINESS STATION                        ,Total rainfall in mm                                                                                                    ,    59,01/11/2007,30/11/2007,    137.0,   8,  ,#
+xc,N, 35073,TOLINESS STATION                        ,Total rainfall in mm                                                                                                    ,    95,01/11/2010,30/11/2010,    101.5,   7,  ,#
+xc,N, 35073,TOLINESS STATION                        ,Total rainfall in mm                                                                                                    ,   134,01/02/2014,28/02/2014,     72.0,   8,  ,#
+xc,Y, 35073,TOLINESS STATION                        ,Total rainfall in mm                                                                                                    ,   144,01/12/2014,31/12/2014,    114.0,   7,  ,#
+xc,N, 35073,TOLINESS STATION                        ,Total rainfall in mm                                                                                                    ,   183,01/03/2018,31/03/2018,    186.0,   7,  ,#

@@ -1,0 +1,7 @@
+#
+Data for calendar months during the years 2003 to 2018#
+#
+xc,"Data affected by accumulations" flag,Station Number,Station Name,Element description,Period,Period start date - Day Month Year in DD/MM/YYYY format,Period end date - Day Month Year in DD/MM/YYYY format,Element value,Number of valid days,Quality control field,#
+xc,N, 33202,CHARON'S FERRY                          ,Total rainfall in mm                                                                                                    ,     1,01/01/2003,31/01/2003,      0.0,  31,  ,#
+xc,N, 33202,CHARON'S FERRY                          ,Total rainfall in mm                                                                                                    ,     2,01/02/2003,28/02/2003,    350.0,  28,  ,#
+xc,N, 33202,CHARON'S FERRY                          ,Total rainfall in mm                                                                                                    ,     3,01/03/2003,31/03/2003,      4.2,  31,  ,#

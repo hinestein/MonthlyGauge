@@ -1,0 +1,6 @@
+#
+Data for calendar months during the years 2003 to 2018#
+#
+xc,"Data affected by accumulations" flag,Station Number,Station Name,Element description,Period,Period start date - Day Month Year in DD/MM/YYYY format,Period end date - Day Month Year in DD/MM/YYYY format,Element value,Number of valid days,Quality control field,#
+xc,Y, 14014,EARLY STORMS                            ,Total rainfall in mm                                                                                                    ,    73,01/01/2009,31/01/2009,    331.2,  31,  ,#
+xc,Y, 14014,EARLY STORMS                            ,Total rainfall in mm                                                                                                    ,    74,01/02/2009,28/02/2009,    335.1,  28,  ,#

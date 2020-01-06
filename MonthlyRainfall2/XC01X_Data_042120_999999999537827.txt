@@ -1,0 +1,27 @@
+#
+Data for calendar months during the years 2003 to 2018#
+#
+xc,"Data affected by accumulations" flag,Station Number,Station Name,Element description,Period,Period start date - Day Month Year in DD/MM/YYYY format,Period end date - Day Month Year in DD/MM/YYYY format,Element value,Number of valid days,Quality control field,#
+xc,N, 42120,BULLAGREEN                              ,Total rainfall in mm                                                                                                    ,   121,01/01/2013,31/01/2013,     39.4,  31,  ,#
+xc,N, 42120,BULLAGREEN                              ,Total rainfall in mm                                                                                                    ,   122,01/02/2013,28/02/2013,     33.6,  28,  ,#
+xc,Y, 42120,BULLAGREEN                              ,Total rainfall in mm                                                                                                    ,   123,01/03/2013,31/03/2013,     86.4,  31,  ,#
+xc,N, 42120,BULLAGREEN                              ,Total rainfall in mm                                                                                                    ,   124,01/04/2013,30/04/2013,      1.6,  30,  ,#
+xc,N, 42120,BULLAGREEN                              ,Total rainfall in mm                                                                                                    ,   125,01/05/2013,31/05/2013,     29.6,  31,  ,#
+xc,N, 42120,BULLAGREEN                              ,Total rainfall in mm                                                                                                    ,   126,01/06/2013,30/06/2013,     18.6,  30,  ,#
+xc,N, 42120,BULLAGREEN                              ,Total rainfall in mm                                                                                                    ,   127,01/07/2013,31/07/2013,     22.4,  31,  ,#
+xc,N, 42120,BULLAGREEN                              ,Total rainfall in mm                                                                                                    ,   128,01/08/2013,31/08/2013,      7.0,  31,  ,#
+xc,N, 42120,BULLAGREEN                              ,Total rainfall in mm                                                                                                    ,   129,01/09/2013,30/09/2013,     23.9,  30,  ,#
+xc,N, 42120,BULLAGREEN                              ,Total rainfall in mm                                                                                                    ,   130,01/10/2013,31/10/2013,      6.8,  31,  ,#
+xc,N, 42120,BULLAGREEN                              ,Total rainfall in mm                                                                                                    ,   131,01/11/2013,30/11/2013,     62.8,  30,  ,#
+xc,Y, 42120,BULLAGREEN                              ,Total rainfall in mm                                                                                                    ,   132,01/12/2013,31/12/2013,      5.9,  31,  ,#
+xc,N, 42120,BULLAGREEN                              ,Total rainfall in mm                                                                                                    ,   133,01/01/2014,31/01/2014,     22.8,  31,  ,#
+xc,N, 42120,BULLAGREEN                              ,Total rainfall in mm                                                                                                    ,   134,01/02/2014,28/02/2014,     37.2,  28,  ,#
+xc,Y, 42120,BULLAGREEN                              ,Total rainfall in mm                                                                                                    ,   135,01/03/2014,31/03/2014,    166.0,  31,  ,#
+xc,N, 42120,BULLAGREEN                              ,Total rainfall in mm                                                                                                    ,   136,01/04/2014,30/04/2014,      3.3,  30,  ,#
+xc,N, 42120,BULLAGREEN                              ,Total rainfall in mm                                                                                                    ,   137,01/05/2014,31/05/2014,     33.5,  31,  ,#
+xc,N, 42120,BULLAGREEN                              ,Total rainfall in mm                                                                                                    ,   138,01/06/2014,30/06/2014,     22.0,  30,  ,#
+xc,N, 42120,BULLAGREEN                              ,Total rainfall in mm                                                                                                    ,   139,01/07/2014,31/07/2014,     11.0,  31,  ,#
+xc,N, 42120,BULLAGREEN                              ,Total rainfall in mm                                                                                                    ,   140,01/08/2014,31/08/2014,     33.2,  31,  ,#
+xc,N, 42120,BULLAGREEN                              ,Total rainfall in mm                                                                                                    ,   141,01/09/2014,30/09/2014,     14.4,  30,  ,#
+xc,N, 42120,BULLAGREEN                              ,Total rainfall in mm                                                                                                    ,   142,01/10/2014,31/10/2014,      1.0,  31,  ,#
+xc,N, 42120,BULLAGREEN                              ,Total rainfall in mm                                                                                                    ,   143,01/11/2014,30/11/2014,     21.8,  30,  ,#

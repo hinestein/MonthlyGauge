@@ -1,0 +1,25 @@
+#
+Data for calendar months during the years 2003 to 2018#
+#
+xc,"Data affected by accumulations" flag,Station Number,Station Name,Element description,Period,Period start date - Day Month Year in DD/MM/YYYY format,Period end date - Day Month Year in DD/MM/YYYY format,Element value,Number of valid days,Quality control field,#
+xc,N, 45051,BULGROO STATION                         ,Total rainfall in mm                                                                                                    ,     1,01/01/2003,31/01/2003,     26.0,  31,  ,#
+xc,N, 45051,BULGROO STATION                         ,Total rainfall in mm                                                                                                    ,     2,01/02/2003,28/02/2003,     82.0,  28,  ,#
+xc,N, 45051,BULGROO STATION                         ,Total rainfall in mm                                                                                                    ,     3,01/03/2003,31/03/2003,      6.0,  31,  ,#
+xc,N, 45051,BULGROO STATION                         ,Total rainfall in mm                                                                                                    ,     4,01/04/2003,30/04/2003,      0.0,  30,  ,#
+xc,N, 45051,BULGROO STATION                         ,Total rainfall in mm                                                                                                    ,     5,01/05/2003,31/05/2003,     11.5,  31,  ,#
+xc,N, 45051,BULGROO STATION                         ,Total rainfall in mm                                                                                                    ,     6,01/06/2003,30/06/2003,      2.0,  30,  ,#
+xc,N, 45051,BULGROO STATION                         ,Total rainfall in mm                                                                                                    ,     7,01/07/2003,31/07/2003,     25.0,  31,  ,#
+xc,N, 45051,BULGROO STATION                         ,Total rainfall in mm                                                                                                    ,     8,01/08/2003,31/08/2003,     16.0,  31,  ,#
+xc,N, 45051,BULGROO STATION                         ,Total rainfall in mm                                                                                                    ,     9,01/09/2003,30/09/2003,      0.0,  30,  ,#
+xc,N, 45051,BULGROO STATION                         ,Total rainfall in mm                                                                                                    ,    10,01/10/2003,31/10/2003,     12.0,  31,  ,#
+xc,N, 45051,BULGROO STATION                         ,Total rainfall in mm                                                                                                    ,    11,01/11/2003,30/11/2003,      0.0,  30,  ,#
+xc,N, 45051,BULGROO STATION                         ,Total rainfall in mm                                                                                                    ,    12,01/12/2003,31/12/2003,     15.5,  31,  ,#
+xc,N, 45051,BULGROO STATION                         ,Total rainfall in mm                                                                                                    ,    13,01/01/2004,31/01/2004,    314.5,  31,  ,#
+xc,N, 45051,BULGROO STATION                         ,Total rainfall in mm                                                                                                    ,    14,01/02/2004,29/02/2004,     14.0,  29,  ,#
+xc,N, 45051,BULGROO STATION                         ,Total rainfall in mm                                                                                                    ,    15,01/03/2004,31/03/2004,     30.0,  31,  ,#
+xc,N, 45051,BULGROO STATION                         ,Total rainfall in mm                                                                                                    ,    16,01/04/2004,30/04/2004,     44.5,  30,  ,#
+xc,N, 45051,BULGROO STATION                         ,Total rainfall in mm                                                                                                    ,    17,01/05/2004,31/05/2004,     21.0,  31,  ,#
+xc,N, 45051,BULGROO STATION                         ,Total rainfall in mm                                                                                                    ,    18,01/06/2004,30/06/2004,      2.0,  30,  ,#
+xc,N, 45051,BULGROO STATION                         ,Total rainfall in mm                                                                                                    ,    19,01/07/2004,31/07/2004,      0.0,  31,  ,#
+xc,N, 45051,BULGROO STATION                         ,Total rainfall in mm                                                                                                    ,    20,01/08/2004,31/08/2004,     15.0,  31,  ,#
+xc,N, 45051,BULGROO STATION                         ,Total rainfall in mm                                                                                                    ,    21,01/09/2004,30/09/2004,     12.0,  30,  ,#

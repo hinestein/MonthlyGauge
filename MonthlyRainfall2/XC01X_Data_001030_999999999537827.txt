@@ -1,0 +1,14 @@
+#
+Data for calendar months during the years 2003 to 2018#
+#
+xc,"Data affected by accumulations" flag,Station Number,Station Name,Element description,Period,Period start date - Day Month Year in DD/MM/YYYY format,Period end date - Day Month Year in DD/MM/YYYY format,Element value,Number of valid days,Quality control field,#
+xc,N,  1030,KIMBERLEY COASTAL CAMP                  ,Total rainfall in mm                                                                                                    ,     1,01/01/2003,31/01/2003,    265.5,  19,  ,#
+xc,N,  1030,KIMBERLEY COASTAL CAMP                  ,Total rainfall in mm                                                                                                    ,    13,01/01/2004,31/01/2004,    206.8,  31,  ,#
+xc,N,  1030,KIMBERLEY COASTAL CAMP                  ,Total rainfall in mm                                                                                                    ,    47,01/11/2006,30/11/2006,    105.0,  30,  ,#
+xc,N,  1030,KIMBERLEY COASTAL CAMP                  ,Total rainfall in mm                                                                                                    ,    48,01/12/2006,31/12/2006,    264.1,  31,  ,#
+xc,Y,  1030,KIMBERLEY COASTAL CAMP                  ,Total rainfall in mm                                                                                                    ,    49,01/01/2007,31/01/2007,   1076.0,  31,  ,#
+xc,N,  1030,KIMBERLEY COASTAL CAMP                  ,Total rainfall in mm                                                                                                    ,    98,01/02/2011,28/02/2011,    562.6,  18,  ,#
+xc,N,  1030,KIMBERLEY COASTAL CAMP                  ,Total rainfall in mm                                                                                                    ,    99,01/03/2011,31/03/2011,    169.2,  10,  ,#
+xc,N,  1030,KIMBERLEY COASTAL CAMP                  ,Total rainfall in mm                                                                                                    ,   108,01/12/2011,31/12/2011,    129.2,  10,  ,#
+xc,N,  1030,KIMBERLEY COASTAL CAMP                  ,Total rainfall in mm                                                                                                    ,   109,01/01/2012,31/01/2012,    366.0,  17,  ,#
+xc,N,  1030,KIMBERLEY COASTAL CAMP                  ,Total rainfall in mm                                                                                                    ,   111,01/03/2012,31/03/2012,    561.0,   8,  ,#

@@ -1,0 +1,14 @@
+#
+Data for calendar months during the years 2003 to 2018#
+#
+xc,"Data affected by accumulations" flag,Station Number,Station Name,Element description,Period,Period start date - Day Month Year in DD/MM/YYYY format,Period end date - Day Month Year in DD/MM/YYYY format,Element value,Number of valid days,Quality control field,#
+xc,N, 35281,OURNIE                                  ,Total rainfall in mm                                                                                                    ,    11,01/11/2003,30/11/2003,     18.8,  30,  ,#
+xc,N, 35281,OURNIE                                  ,Total rainfall in mm                                                                                                    ,    12,01/12/2003,31/12/2003,     75.6,  31,  ,#
+xc,N, 35281,OURNIE                                  ,Total rainfall in mm                                                                                                    ,    13,01/01/2004,31/01/2004,    136.2,  31,  ,#
+xc,N, 35281,OURNIE                                  ,Total rainfall in mm                                                                                                    ,    14,01/02/2004,29/02/2004,     95.8,  29,  ,#
+xc,N, 35281,OURNIE                                  ,Total rainfall in mm                                                                                                    ,    16,01/04/2004,30/04/2004,     39.0,  30,  ,#
+xc,N, 35281,OURNIE                                  ,Total rainfall in mm                                                                                                    ,    17,01/05/2004,31/05/2004,      0.0,  31,  ,#
+xc,N, 35281,OURNIE                                  ,Total rainfall in mm                                                                                                    ,    18,01/06/2004,30/06/2004,      0.0,  30,  ,#
+xc,N, 35281,OURNIE                                  ,Total rainfall in mm                                                                                                    ,    19,01/07/2004,31/07/2004,      4.4,  31,  ,#
+xc,N, 35281,OURNIE                                  ,Total rainfall in mm                                                                                                    ,    20,01/08/2004,31/08/2004,      1.8,  31,  ,#
+xc,N, 35281,OURNIE                                  ,Total rainfall in mm                                                                                                    ,    21,01/09/2004,30/09/2004,      0.0,  30,  ,#

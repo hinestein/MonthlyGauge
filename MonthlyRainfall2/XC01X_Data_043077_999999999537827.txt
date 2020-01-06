@@ -1,0 +1,17 @@
+#
+Data for calendar months during the years 2003 to 2018#
+#
+xc,"Data affected by accumulations" flag,Station Number,Station Name,Element description,Period,Period start date - Day Month Year in DD/MM/YYYY format,Period end date - Day Month Year in DD/MM/YYYY format,Element value,Number of valid days,Quality control field,#
+xc,N, 43077,GARRABARRA                              ,Total rainfall in mm                                                                                                    ,    61,01/01/2008,31/01/2008,    108.0,  31,  ,#
+xc,N, 43077,GARRABARRA                              ,Total rainfall in mm                                                                                                    ,    86,01/02/2010,28/02/2010,    255.4,   8,  ,#
+xc,Y, 43077,GARRABARRA                              ,Total rainfall in mm                                                                                                    ,   109,01/01/2012,31/01/2012,    206.5,  31,  ,#
+xc,N, 43077,GARRABARRA                              ,Total rainfall in mm                                                                                                    ,   110,01/02/2012,29/02/2012,    166.5,  29,  ,#
+xc,N, 43077,GARRABARRA                              ,Total rainfall in mm                                                                                                    ,   111,01/03/2012,31/03/2012,     46.2,  31,  ,#
+xc,N, 43077,GARRABARRA                              ,Total rainfall in mm                                                                                                    ,   112,01/04/2012,30/04/2012,     14.4,  30,  ,#
+xc,N, 43077,GARRABARRA                              ,Total rainfall in mm                                                                                                    ,   147,01/03/2015,31/03/2015,     20.5,  23,  ,#
+xc,N, 43077,GARRABARRA                              ,Total rainfall in mm                                                                                                    ,   165,01/09/2016,30/09/2016,     97.2,  30,  ,#
+xc,N, 43077,GARRABARRA                              ,Total rainfall in mm                                                                                                    ,   166,01/10/2016,31/10/2016,      0.0,  31,  ,#
+xc,N, 43077,GARRABARRA                              ,Total rainfall in mm                                                                                                    ,   167,01/11/2016,30/11/2016,      0.0,  30,  ,#
+xc,N, 43077,GARRABARRA                              ,Total rainfall in mm                                                                                                    ,   168,01/12/2016,31/12/2016,      0.0,  31,  ,#
+xc,N, 43077,GARRABARRA                              ,Total rainfall in mm                                                                                                    ,   169,01/01/2017,31/01/2017,     34.0,  15,  ,#
+xc,N, 43077,GARRABARRA                              ,Total rainfall in mm                                                                                                    ,   183,01/03/2018,31/03/2018,      8.0,   7,  ,#

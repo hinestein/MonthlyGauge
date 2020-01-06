@@ -1,0 +1,25 @@
+#
+Data for calendar months during the years 2003 to 2018#
+#
+xc,"Data affected by accumulations" flag,Station Number,Station Name,Element description,Period,Period start date - Day Month Year in DD/MM/YYYY format,Period end date - Day Month Year in DD/MM/YYYY format,Element value,Number of valid days,Quality control field,#
+xc,N, 51017,HERMIDALE (GILGAI)                      ,Total rainfall in mm                                                                                                    ,    49,01/01/2007,31/01/2007,     65.6,  31,  ,#
+xc,Y, 51017,HERMIDALE (GILGAI)                      ,Total rainfall in mm                                                                                                    ,    50,01/02/2007,28/02/2007,     47.0,  28,  ,#
+xc,N, 51017,HERMIDALE (GILGAI)                      ,Total rainfall in mm                                                                                                    ,    51,01/03/2007,31/03/2007,     22.0,  31,  ,#
+xc,N, 51017,HERMIDALE (GILGAI)                      ,Total rainfall in mm                                                                                                    ,    52,01/04/2007,30/04/2007,     15.0,  30,  ,#
+xc,N, 51017,HERMIDALE (GILGAI)                      ,Total rainfall in mm                                                                                                    ,    53,01/05/2007,31/05/2007,     37.4,  31,  ,#
+xc,N, 51017,HERMIDALE (GILGAI)                      ,Total rainfall in mm                                                                                                    ,    54,01/06/2007,30/06/2007,      8.9,  30,  ,#
+xc,N, 51017,HERMIDALE (GILGAI)                      ,Total rainfall in mm                                                                                                    ,    55,01/07/2007,31/07/2007,      6.7,  31,  ,#
+xc,N, 51017,HERMIDALE (GILGAI)                      ,Total rainfall in mm                                                                                                    ,    56,01/08/2007,31/08/2007,     14.0,  31,  ,#
+xc,N, 51017,HERMIDALE (GILGAI)                      ,Total rainfall in mm                                                                                                    ,    57,01/09/2007,30/09/2007,      0.0,  30,  ,#
+xc,N, 51017,HERMIDALE (GILGAI)                      ,Total rainfall in mm                                                                                                    ,    58,01/10/2007,31/10/2007,      7.8,  31,  ,#
+xc,N, 51017,HERMIDALE (GILGAI)                      ,Total rainfall in mm                                                                                                    ,    59,01/11/2007,30/11/2007,     58.9,  30,  ,#
+xc,N, 51017,HERMIDALE (GILGAI)                      ,Total rainfall in mm                                                                                                    ,    60,01/12/2007,31/12/2007,    111.8,  31,  ,#
+xc,Y, 51017,HERMIDALE (GILGAI)                      ,Total rainfall in mm                                                                                                    ,    61,01/01/2008,31/01/2008,     76.2,  31,  ,#
+xc,Y, 51017,HERMIDALE (GILGAI)                      ,Total rainfall in mm                                                                                                    ,    62,01/02/2008,29/02/2008,     51.0,  29,  ,#
+xc,Y, 51017,HERMIDALE (GILGAI)                      ,Total rainfall in mm                                                                                                    ,    63,01/03/2008,31/03/2008,     25.6,  31,  ,#
+xc,N, 51017,HERMIDALE (GILGAI)                      ,Total rainfall in mm                                                                                                    ,    64,01/04/2008,30/04/2008,      0.0,  30,  ,#
+xc,N, 51017,HERMIDALE (GILGAI)                      ,Total rainfall in mm                                                                                                    ,    65,01/05/2008,31/05/2008,      1.6,  31,  ,#
+xc,N, 51017,HERMIDALE (GILGAI)                      ,Total rainfall in mm                                                                                                    ,    66,01/06/2008,30/06/2008,     56.0,  30,  ,#
+xc,N, 51017,HERMIDALE (GILGAI)                      ,Total rainfall in mm                                                                                                    ,    67,01/07/2008,31/07/2008,      0.0,  31,  ,#
+xc,N, 51017,HERMIDALE (GILGAI)                      ,Total rainfall in mm                                                                                                    ,    68,01/08/2008,31/08/2008,     12.0,  31,  ,#
+xc,N, 51017,HERMIDALE (GILGAI)                      ,Total rainfall in mm                                                                                                    ,    69,01/09/2008,30/09/2008,     11.0,  30,  ,#

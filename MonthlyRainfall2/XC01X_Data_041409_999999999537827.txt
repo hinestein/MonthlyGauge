@@ -1,0 +1,20 @@
+#
+Data for calendar months during the years 2003 to 2018#
+#
+xc,"Data affected by accumulations" flag,Station Number,Station Name,Element description,Period,Period start date - Day Month Year in DD/MM/YYYY format,Period end date - Day Month Year in DD/MM/YYYY format,Element value,Number of valid days,Quality control field,#
+xc,Y, 41409,BERUNA                                  ,Total rainfall in mm                                                                                                    ,    13,01/01/2004,31/01/2004,     53.6,   8,  ,#
+xc,N, 41409,BERUNA                                  ,Total rainfall in mm                                                                                                    ,    30,01/06/2005,30/06/2005,    125.8,   7,  ,#
+xc,Y, 41409,BERUNA                                  ,Total rainfall in mm                                                                                                    ,    34,01/10/2005,31/10/2005,     95.6,   9,  ,#
+xc,Y, 41409,BERUNA                                  ,Total rainfall in mm                                                                                                    ,    36,01/12/2005,31/12/2005,     91.2,   7,  ,#
+xc,N, 41409,BERUNA                                  ,Total rainfall in mm                                                                                                    ,    47,01/11/2006,30/11/2006,     73.6,   7,  ,#
+xc,N, 41409,BERUNA                                  ,Total rainfall in mm                                                                                                    ,    58,01/10/2007,31/10/2007,    101.8,   7,  ,#
+xc,Y, 41409,BERUNA                                  ,Total rainfall in mm                                                                                                    ,    61,01/01/2008,31/01/2008,     37.2,   7,  ,#
+xc,Y, 41409,BERUNA                                  ,Total rainfall in mm                                                                                                    ,    62,01/02/2008,29/02/2008,    132.2,   9,  ,#
+xc,Y, 41409,BERUNA                                  ,Total rainfall in mm                                                                                                    ,    71,01/11/2008,30/11/2008,    107.4,   7,  ,#
+xc,N, 41409,BERUNA                                  ,Total rainfall in mm                                                                                                    ,    86,01/02/2010,28/02/2010,     70.0,   8,  ,#
+xc,N, 41409,BERUNA                                  ,Total rainfall in mm                                                                                                    ,    93,01/09/2010,30/09/2010,     77.8,   7,  ,#
+xc,Y, 41409,BERUNA                                  ,Total rainfall in mm                                                                                                    ,    96,01/12/2010,31/12/2010,    324.8,  21,  ,#
+xc,N, 41409,BERUNA                                  ,Total rainfall in mm                                                                                                    ,    97,01/01/2011,31/01/2011,     65.0,   9,  ,#
+xc,Y, 41409,BERUNA                                  ,Total rainfall in mm                                                                                                    ,   114,01/06/2012,30/06/2012,    102.6,   7,  ,#
+xc,N, 41409,BERUNA                                  ,Total rainfall in mm                                                                                                    ,   121,01/01/2013,31/01/2013,    148.8,   8,  ,#
+xc,Y, 41409,BERUNA                                  ,Total rainfall in mm                                                                                                    ,   122,01/02/2013,28/02/2013,     54.6,   7,  ,#

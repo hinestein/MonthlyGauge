@@ -1,0 +1,9 @@
+#
+Data for calendar months during the years 2003 to 2018#
+#
+xc,"Data affected by accumulations" flag,Station Number,Station Name,Element description,Period,Period start date - Day Month Year in DD/MM/YYYY format,Period end date - Day Month Year in DD/MM/YYYY format,Element value,Number of valid days,Quality control field,#
+xc,N, 82062,TINTALDRA                               ,Total rainfall in mm                                                                                                    ,     1,01/01/2003,31/01/2003,      6.0,  31,  ,#
+xc,Y, 82062,TINTALDRA                               ,Total rainfall in mm                                                                                                    ,     2,01/02/2003,28/02/2003,     27.5,  28,  ,#
+xc,N, 82062,TINTALDRA                               ,Total rainfall in mm                                                                                                    ,     3,01/03/2003,31/03/2003,     28.0,  31,  ,#
+xc,Y, 82062,TINTALDRA                               ,Total rainfall in mm                                                                                                    ,     4,01/04/2003,30/04/2003,      8.2,  30,  ,#
+xc,Y, 82062,TINTALDRA                               ,Total rainfall in mm                                                                                                    ,     5,01/05/2003,31/05/2003,     20.1,  31,  ,#

@@ -1,0 +1,202 @@
+NOTES FOR XC01X COMPLETED ON 14/08/2018
+____________________________________________________________________________________________
+____________________________________________________________________________________________
+
+Standard layout
+
+Byte Location , Byte Size  , Explanation
+--------------------------------------------------------------------------------------------
+
+
+1-2           ,2           , Record identifier - xc
+4             ,1           , "Data affected by accumulations" flag.
+6-11          ,6           , Bureau of Meteorology Station Number.
+13-52         ,40          , Station Name.
+54-173        ,120         , Element description
+175-180       ,6           , Period
+182-191       ,10          , Period start date - Day month year in DD/MM/YYYY format.
+193-202       ,10          , Period end date - Day month year in DD/MM/YYYY format.
+204-212       ,9           , Element value
+214-217       ,4           , Number of valid days
+219-220       ,2           , Quality control indicator (QC indicates that QC has been taken
+                             into consideration; blanks indicate that no quality check has
+                             been performed).
+222           ,1           , # symbol, end of record indicator.
+
+
+
+
+ELEMENTS CHOSEN
+_______________
+
+Total rainfall in mm
+
+
+
+
+DATA USED
+_________
+
+Data is displayed only for those periods where there were at least 7 days on which
+observations were taken.  For data observed several times a day, only those days where
+there were at least 6 observations are included.Data may not have been quality controlled.
+Accumulations for rainfall (period total only), evaporation and wind run have been
+considered. The totals during accumulation periods have been split evenly across the
+days in accumulation. For maximum, mimimum and ground temperatures these have been
+considered to have occurred on the last day of the accumulated period.  For data
+affected by accumulations the "data affected by accumlations" flag will be set to
+"Y", otherwise it will be set to "N".
+
+
+
+
+GAPS AND MISSING DATA
+_____________________
+
+Very few sites have a complete unbroken record of climate information. A site
+may have been closed, reopened, upgraded to a full weather site or downgraded
+to a rainfall only site during its existence causing breaks in the record for
+some or all elements. Some gaps may be for one element due to a damaged
+instrument, others may be for all elements due to the absence or illness of
+an observer.
+
+
+
+
+INSTUMENTS AND OBSERVATIONAL PRACTICES
+______________________________________
+
+Historically a nearby site (within about 1 mile in earlier days) may have used the same 
+site number.  There may have been changes in instrumentation and/or observing practices
+over the period included in a dataset, which may have an effect on the long-term record.
+In recent years many sites have had observers replaced by Automatic Weather Stations,
+either completely or at certain times of the day.  
+
+
+
+
+TIME
+____
+
+For a part of the year some Australian States adopt Daylight Saving Time (DST), and
+observers continue to take observations according to the local clock.  Times provided 
+with this data are Local Time, unless otherwise noted. 
+
+Care needs to be taken when comparing values from year to year or month to month, because for
+some elements the effect of one hour can be marked, for example air temperature often rises 
+sharply between 8am and 9am.
+
+Daylight Saving has been used in many Australian states since 1973. The
+changeovers occur almost always in October and March, but exact dates vary
+from State to State and year to year. More information can be found at:
+http://www.bom.gov.au/climate/averages/tables/daysavtm.shtml
+
+
+
+
+ROUNDING
+________
+
+The primary way of sending current weather information around the world is via a coded message 
+known as a SYNOP.  This message only allows some measurements to be sent as rounded values.  
+Once manuscript records have been sent in many of these values are typed in with greater 
+precision (normally to one decimal place). This usually occurs within a few months.
+
+If consecutive values all have a zero in the decimal place, then it is almost certain that
+rounding was used earlier.  A new type of message format is progressively being introduced to
+overcome this situation.
+
+
+
+
+COPYRIGHT
+_________
+
+The copyright for any data is held in the Commonwealth of Australia and the purchaser
+shall give acknowledgement of the source in reference to the data.  Apart from dealings
+under the copyright Act, 1968, the purchaser shall not reproduce, modify or supply (by
+sale or otherwise) these data without written permission.  Enquiries should be made
+to the Bureau of Meteorology, PO Box 1289K, Melbourne 3001, marked to the attention of SRDS.
+
+
+
+
+LIABILITY
+_________
+
+While every effort is made to supply the best data available this may not be possible
+in all cases.  We do not give any warranty, nor accept any liability in relation
+to the information given, except that liability (if any), that is required by law.
+
+
+
+
+
+IF DATA IS NOT AS REQUESTED
+___________________________
+
+If the data provided are not as requested, the data will be repeated at no extra cost, 
+provided that:
+a) the Bureau is notified within 60 days.
+b) the printout/disc/data file is returned to the Bureau for checking.
+c) there has been a fault or error in providing the data.
+
+Where there has been no fault or error of provision, the cost involved in
+requested corrective action such as resending the data or providing alternative
+sites will be charged for as necessary.
+
+
+
+
+____________________________________________________________________________________________
+____________________________________________________________________________________________
+
+SITE DETAILS FILE
+
+This file contains the details for the current site or are those which applied when the site
+was closed.  Many sites have been moved, downgraded, upgraded etc over the years.
+
+Byte Location , Byte Size  , Explanation
+--------------------------------------------------------------------------------------------
+
+
+1-2           ,2           , Record identifier - st
+4-9           ,6           , Bureau of Meteorology Station Number.
+11-14         ,4           , Rainfall district code
+16-55         ,40          , Station Name.
+57-63         ,7           , Month/Year site opened. (MM/YYYY)
+65-71         ,7           , Month/Year site closed. (MM/YYYY)
+73-80         ,8           , Latitude to 4 decimal places, in decimal degrees.
+82-90         ,9           , Longitude to 4 decimal places, in decimal degrees.
+92-106        ,15          , Method by which latitude/longitude was derived.
+108-110       ,3           , State.
+112-117       ,6           , Height of station above mean sea level in metres.
+119-124       ,6           , Height of barometer above mean sea level in metres.
+126-130       ,5           , WMO (World Meteorological Organisation) Index Number.
+132-135       ,4           , First year of data supplied in data file.
+137-140       ,4           , Last year of data supplied in data file.
+142           ,1           , # symbol, end of record indicator.
+
+
+
+
+LATITUDES AND LONGITUDES
+________________________
+
+Latitudes and longitudes are given to 4 decimal places, but in many cases will not be
+accurate to 4 decimal places.  This is because in the early days the positions of stations
+were estimated from maps. Gradually the network of open stations is being checked (and
+if necessary corrected) using GPS (Global Positioning System). The method used is given
+in the site details file.
+
+
+
+
+WMO INDEX NUMBER
+________________
+
+This is the number assigned to a site that makes international weather reports every day.
+The number is not actively used in the climate archive, and only a few hundred such 
+numbers are assigned at any time.  These are not perpetual but may be reassigned 
+where a site no longer makes the international reports (synops); thus a particular
+number cannot be regarded as unique and exclusive to any particular site.

@@ -1,0 +1,12 @@
+#
+Data for calendar months during the years 2003 to 2018#
+#
+xc,"Data affected by accumulations" flag,Station Number,Station Name,Element description,Period,Period start date - Day Month Year in DD/MM/YYYY format,Period end date - Day Month Year in DD/MM/YYYY format,Element value,Number of valid days,Quality control field,#
+xc,N, 14822,TIMBER CREEK POLICE                     ,Total rainfall in mm                                                                                                    ,    10,01/10/2003,31/10/2003,      0.0,  31,  ,#
+xc,Y, 14822,TIMBER CREEK POLICE                     ,Total rainfall in mm                                                                                                    ,    11,01/11/2003,30/11/2003,     51.4,  30,  ,#
+xc,Y, 14822,TIMBER CREEK POLICE                     ,Total rainfall in mm                                                                                                    ,    12,01/12/2003,31/12/2003,    270.0,  31,  ,#
+xc,Y, 14822,TIMBER CREEK POLICE                     ,Total rainfall in mm                                                                                                    ,    13,01/01/2004,31/01/2004,    205.0,  31,  ,#
+xc,Y, 14822,TIMBER CREEK POLICE                     ,Total rainfall in mm                                                                                                    ,    14,01/02/2004,29/02/2004,    312.0,  29,  ,#
+xc,Y, 14822,TIMBER CREEK POLICE                     ,Total rainfall in mm                                                                                                    ,    15,01/03/2004,31/03/2004,    244.0,  30,  ,#
+xc,N, 14822,TIMBER CREEK POLICE                     ,Total rainfall in mm                                                                                                    ,    16,01/04/2004,30/04/2004,      5.0,  30,  ,#
+xc,Y, 14822,TIMBER CREEK POLICE                     ,Total rainfall in mm                                                                                                    ,    73,01/01/2009,31/01/2009,    336.0,  31,  ,#

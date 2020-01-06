@@ -1,0 +1,15 @@
+#
+Data for calendar months during the years 2003 to 2018#
+#
+xc,"Data affected by accumulations" flag,Station Number,Station Name,Element description,Period,Period start date - Day Month Year in DD/MM/YYYY format,Period end date - Day Month Year in DD/MM/YYYY format,Element value,Number of valid days,Quality control field,#
+xc,N, 30130,SOUTHWICK WEST STATION                  ,Total rainfall in mm                                                                                                    ,     9,01/09/2003,30/09/2003,      3.4,  30,  ,#
+xc,N, 30130,SOUTHWICK WEST STATION                  ,Total rainfall in mm                                                                                                    ,    13,01/01/2004,31/01/2004,    120.0,  31,  ,#
+xc,N, 30130,SOUTHWICK WEST STATION                  ,Total rainfall in mm                                                                                                    ,    14,01/02/2004,29/02/2004,     63.5,  29,  ,#
+xc,N, 30130,SOUTHWICK WEST STATION                  ,Total rainfall in mm                                                                                                    ,    23,01/11/2004,30/11/2004,     31.0,  30,  ,#
+xc,N, 30130,SOUTHWICK WEST STATION                  ,Total rainfall in mm                                                                                                    ,    24,01/12/2004,31/12/2004,    111.5,  31,  ,#
+xc,Y, 30130,SOUTHWICK WEST STATION                  ,Total rainfall in mm                                                                                                    ,    49,01/01/2007,31/01/2007,    236.0,  31,  ,#
+xc,Y, 30130,SOUTHWICK WEST STATION                  ,Total rainfall in mm                                                                                                    ,    50,01/02/2007,28/02/2007,    309.0,  28,  ,#
+xc,N, 30130,SOUTHWICK WEST STATION                  ,Total rainfall in mm                                                                                                    ,    85,01/01/2010,31/01/2010,    177.0,  31,  ,#
+xc,N, 30130,SOUTHWICK WEST STATION                  ,Total rainfall in mm                                                                                                    ,    86,01/02/2010,28/02/2010,    124.0,  28,  ,#
+xc,N, 30130,SOUTHWICK WEST STATION                  ,Total rainfall in mm                                                                                                    ,    87,01/03/2010,31/03/2010,     97.0,  31,  ,#
+xc,N, 30130,SOUTHWICK WEST STATION                  ,Total rainfall in mm                                                                                                    ,    88,01/04/2010,30/04/2010,     31.0,  30,  ,#

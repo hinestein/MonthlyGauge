@@ -1,0 +1,13 @@
+#
+Data for calendar months during the years 2003 to 2018#
+#
+xc,"Data affected by accumulations" flag,Station Number,Station Name,Element description,Period,Period start date - Day Month Year in DD/MM/YYYY format,Period end date - Day Month Year in DD/MM/YYYY format,Element value,Number of valid days,Quality control field,#
+xc,N,  7205,MOUNT AUGUSTUS RESORT                   ,Total rainfall in mm                                                                                                    ,     1,01/01/2003,31/01/2003,     22.5,  31,  ,#
+xc,N,  7205,MOUNT AUGUSTUS RESORT                   ,Total rainfall in mm                                                                                                    ,     2,01/02/2003,28/02/2003,     20.8,  28,  ,#
+xc,N,  7205,MOUNT AUGUSTUS RESORT                   ,Total rainfall in mm                                                                                                    ,     3,01/03/2003,31/03/2003,     23.2,  31,  ,#
+xc,N,  7205,MOUNT AUGUSTUS RESORT                   ,Total rainfall in mm                                                                                                    ,     4,01/04/2003,30/04/2003,      6.5,  30,  ,#
+xc,Y,  7205,MOUNT AUGUSTUS RESORT                   ,Total rainfall in mm                                                                                                    ,     5,01/05/2003,31/05/2003,      1.5,  31,  ,#
+xc,N,  7205,MOUNT AUGUSTUS RESORT                   ,Total rainfall in mm                                                                                                    ,     6,01/06/2003,30/06/2003,     31.2,  30,  ,#
+xc,N,  7205,MOUNT AUGUSTUS RESORT                   ,Total rainfall in mm                                                                                                    ,     7,01/07/2003,31/07/2003,      0.2,  31,  ,#
+xc,N,  7205,MOUNT AUGUSTUS RESORT                   ,Total rainfall in mm                                                                                                    ,     8,01/08/2003,31/08/2003,     10.8,  31,  ,#
+xc,N,  7205,MOUNT AUGUSTUS RESORT                   ,Total rainfall in mm                                                                                                    ,     9,01/09/2003,30/09/2003,      0.0,  13,  ,#

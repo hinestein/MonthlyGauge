@@ -1,0 +1,20 @@
+#
+Data for calendar months during the years 2003 to 2018#
+#
+xc,"Data affected by accumulations" flag,Station Number,Station Name,Element description,Period,Period start date - Day Month Year in DD/MM/YYYY format,Period end date - Day Month Year in DD/MM/YYYY format,Element value,Number of valid days,Quality control field,#
+xc,Y,140005,SOUTH STRADBROKE ISLAND                 ,Total rainfall in mm                                                                                                    ,   125,01/05/2013,31/05/2013,     72.0,  31,  ,#
+xc,N,140005,SOUTH STRADBROKE ISLAND                 ,Total rainfall in mm                                                                                                    ,   126,01/06/2013,30/06/2013,    166.6,  30,  ,#
+xc,Y,140005,SOUTH STRADBROKE ISLAND                 ,Total rainfall in mm                                                                                                    ,   127,01/07/2013,31/07/2013,    156.0,  31,  ,#
+xc,N,140005,SOUTH STRADBROKE ISLAND                 ,Total rainfall in mm                                                                                                    ,   128,01/08/2013,31/08/2013,      8.2,  31,  ,#
+xc,N,140005,SOUTH STRADBROKE ISLAND                 ,Total rainfall in mm                                                                                                    ,   129,01/09/2013,30/09/2013,      1.8,  30,  ,#
+xc,N,140005,SOUTH STRADBROKE ISLAND                 ,Total rainfall in mm                                                                                                    ,   130,01/10/2013,31/10/2013,      5.0,  31,  ,#
+xc,Y,140005,SOUTH STRADBROKE ISLAND                 ,Total rainfall in mm                                                                                                    ,   131,01/11/2013,30/11/2013,    124.4,  30,  ,#
+xc,N,140005,SOUTH STRADBROKE ISLAND                 ,Total rainfall in mm                                                                                                    ,   132,01/12/2013,31/12/2013,     16.8,  31,  ,#
+xc,Y,140005,SOUTH STRADBROKE ISLAND                 ,Total rainfall in mm                                                                                                    ,   133,01/01/2014,31/01/2014,     56.8,  31,  ,#
+xc,Y,140005,SOUTH STRADBROKE ISLAND                 ,Total rainfall in mm                                                                                                    ,   134,01/02/2014,28/02/2014,      7.0,  28,  ,#
+xc,Y,140005,SOUTH STRADBROKE ISLAND                 ,Total rainfall in mm                                                                                                    ,   135,01/03/2014,31/03/2014,    240.6,  31,  ,#
+xc,N,140005,SOUTH STRADBROKE ISLAND                 ,Total rainfall in mm                                                                                                    ,   136,01/04/2014,30/04/2014,     25.6,  30,  ,#
+xc,Y,140005,SOUTH STRADBROKE ISLAND                 ,Total rainfall in mm                                                                                                    ,   137,01/05/2014,31/05/2014,     73.2,  31,  ,#
+xc,Y,140005,SOUTH STRADBROKE ISLAND                 ,Total rainfall in mm                                                                                                    ,   138,01/06/2014,30/06/2014,     23.8,  23,  ,#
+xc,N,140005,SOUTH STRADBROKE ISLAND                 ,Total rainfall in mm                                                                                                    ,   140,01/08/2014,31/08/2014,    206.2,  31,  ,#
+xc,N,140005,SOUTH STRADBROKE ISLAND                 ,Total rainfall in mm                                                                                                    ,   141,01/09/2014,30/09/2014,     25.5,  28,  ,#

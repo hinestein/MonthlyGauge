@@ -1,0 +1,21 @@
+#
+Data for calendar months during the years 2003 to 2018#
+#
+xc,"Data affected by accumulations" flag,Station Number,Station Name,Element description,Period,Period start date - Day Month Year in DD/MM/YYYY format,Period end date - Day Month Year in DD/MM/YYYY format,Element value,Number of valid days,Quality control field,#
+xc,N, 28010,FAIRVIEW OUTSTATION                     ,Total rainfall in mm                                                                                                    ,     1,01/01/2003,31/01/2003,     29.6,  31,  ,#
+xc,N, 28010,FAIRVIEW OUTSTATION                     ,Total rainfall in mm                                                                                                    ,     2,01/02/2003,28/02/2003,    261.6,  28,  ,#
+xc,Y, 28010,FAIRVIEW OUTSTATION                     ,Total rainfall in mm                                                                                                    ,     3,01/03/2003,31/03/2003,    158.4,  31,  ,#
+xc,N, 28010,FAIRVIEW OUTSTATION                     ,Total rainfall in mm                                                                                                    ,    12,01/12/2003,31/12/2003,     99.0,  31,  ,#
+xc,N, 28010,FAIRVIEW OUTSTATION                     ,Total rainfall in mm                                                                                                    ,    13,01/01/2004,31/01/2004,    220.1,  31,  ,#
+xc,N, 28010,FAIRVIEW OUTSTATION                     ,Total rainfall in mm                                                                                                    ,    14,01/02/2004,29/02/2004,    334.0,  29,  ,#
+xc,Y, 28010,FAIRVIEW OUTSTATION                     ,Total rainfall in mm                                                                                                    ,    15,01/03/2004,31/03/2004,    127.9,  11,  ,#
+xc,N, 28010,FAIRVIEW OUTSTATION                     ,Total rainfall in mm                                                                                                    ,    24,01/12/2004,31/12/2004,    155.6,  31,  ,#
+xc,N, 28010,FAIRVIEW OUTSTATION                     ,Total rainfall in mm                                                                                                    ,    34,01/10/2005,31/10/2005,     12.0,  31,  ,#
+xc,N, 28010,FAIRVIEW OUTSTATION                     ,Total rainfall in mm                                                                                                    ,    35,01/11/2005,30/11/2005,     10.0,  30,  ,#
+xc,N, 28010,FAIRVIEW OUTSTATION                     ,Total rainfall in mm                                                                                                    ,    36,01/12/2005,31/12/2005,     63.4,  31,  ,#
+xc,Y, 28010,FAIRVIEW OUTSTATION                     ,Total rainfall in mm                                                                                                    ,    37,01/01/2006,31/01/2006,    351.3,  31,  ,#
+xc,Y, 28010,FAIRVIEW OUTSTATION                     ,Total rainfall in mm                                                                                                    ,    39,01/03/2006,31/03/2006,    181.7,   9,  ,#
+xc,Y, 28010,FAIRVIEW OUTSTATION                     ,Total rainfall in mm                                                                                                    ,    40,01/04/2006,30/04/2006,    310.4,  12,  ,#
+xc,Y, 28010,FAIRVIEW OUTSTATION                     ,Total rainfall in mm                                                                                                    ,   121,01/01/2013,31/01/2013,    467.5,  31,  ,#
+xc,N, 28010,FAIRVIEW OUTSTATION                     ,Total rainfall in mm                                                                                                    ,   145,01/01/2015,31/01/2015,     85.7,  27,  ,#
+xc,N, 28010,FAIRVIEW OUTSTATION                     ,Total rainfall in mm                                                                                                    ,   154,01/10/2015,31/10/2015,      2.0,  12,  ,#

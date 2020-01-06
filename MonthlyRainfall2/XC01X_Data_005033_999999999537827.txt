@@ -1,0 +1,8 @@
+#
+Data for calendar months during the years 2003 to 2018#
+#
+xc,"Data affected by accumulations" flag,Station Number,Station Name,Element description,Period,Period start date - Day Month Year in DD/MM/YYYY format,Period end date - Day Month Year in DD/MM/YYYY format,Element value,Number of valid days,Quality control field,#
+xc,N,  5033,KOORDARRIE                              ,Total rainfall in mm                                                                                                    ,   133,01/01/2014,31/01/2014,     52.4,  31,  ,#
+xc,N,  5033,KOORDARRIE                              ,Total rainfall in mm                                                                                                    ,   134,01/02/2014,28/02/2014,     38.8,  28,  ,#
+xc,N,  5033,KOORDARRIE                              ,Total rainfall in mm                                                                                                    ,   145,01/01/2015,31/01/2015,     14.0,  31,  ,#
+xc,N,  5033,KOORDARRIE                              ,Total rainfall in mm                                                                                                    ,   146,01/02/2015,28/02/2015,     12.8,  28,  ,#

@@ -1,0 +1,10 @@
+#
+Data for calendar months during the years 2003 to 2018#
+#
+xc,"Data affected by accumulations" flag,Station Number,Station Name,Element description,Period,Period start date - Day Month Year in DD/MM/YYYY format,Period end date - Day Month Year in DD/MM/YYYY format,Element value,Number of valid days,Quality control field,#
+xc,N, 15586,ARAPUNYA                                ,Total rainfall in mm                                                                                                    ,     5,01/05/2003,31/05/2003,      0.0,  31,  ,#
+xc,N, 15586,ARAPUNYA                                ,Total rainfall in mm                                                                                                    ,    19,01/07/2004,31/07/2004,      0.0,  31,  ,#
+xc,N, 15586,ARAPUNYA                                ,Total rainfall in mm                                                                                                    ,    47,01/11/2006,30/11/2006,      3.6,  30,  ,#
+xc,N, 15586,ARAPUNYA                                ,Total rainfall in mm                                                                                                    ,    48,01/12/2006,31/12/2006,     36.0,  31,  ,#
+xc,N, 15586,ARAPUNYA                                ,Total rainfall in mm                                                                                                    ,    49,01/01/2007,31/01/2007,    199.0,  31,  ,#
+xc,N, 15586,ARAPUNYA                                ,Total rainfall in mm                                                                                                    ,    51,01/03/2007,31/03/2007,     27.7,  31,  ,#
